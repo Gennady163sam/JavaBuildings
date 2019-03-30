@@ -1,0 +1,2 @@
+# JavaBuildings
+Repo for trainings
