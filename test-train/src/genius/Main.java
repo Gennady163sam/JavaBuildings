@@ -7,12 +7,12 @@ public class Main {
     public static void main(String[] args){
         Scanner scan = new Scanner(System.in);
 
-        int a = scan.nextInt();
-        int b = scan.nextInt();
+        int firstNumber = scan.nextInt();
+        int secondNumber = scan.nextInt();
 
-        int s = a + b;
+        int result = firstNumber + secondNumber;
 
-        System.out.println("result = " + s);
+        System.out.println("result = " + result);
 
 
 
