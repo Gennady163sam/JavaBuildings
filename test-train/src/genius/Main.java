@@ -11,12 +11,12 @@ public class Main {
         int arrayNumber = scan.nextInt();
 
         int[] mass = new int[arrayNumber];
-        int mmax = Integer.MIN_VALUE;
+        int max = Integer.MIN_VALUE;
         for(int i = 0; i < mass.length; i++){
             mass [i] = scan.nextInt();
-            mmax = Math.max(mmax, mass[i]);
+            max = Math.max(max, mass[i]);
         }
-        System.out.println("Наибольшee число: " + mmax );
+        System.out.println("Наибольшee число: " + max );
 
 
 
