@@ -8,6 +8,7 @@ public class Main {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         makeQuestion(scan);
+        int t;
     }
 
     private static void calcMax(Scanner scan) {
