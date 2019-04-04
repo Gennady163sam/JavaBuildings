@@ -3,7 +3,7 @@ package genius;
 public class Train {
 
     int number;
-    int numberOfCars;
+    int railwayCarriageCount;
     double speed;
 
 
